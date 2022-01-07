@@ -1,0 +1,6 @@
+framework module Pods_LandmarkBookTests {
+  umbrella header "Pods-LandmarkBookTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

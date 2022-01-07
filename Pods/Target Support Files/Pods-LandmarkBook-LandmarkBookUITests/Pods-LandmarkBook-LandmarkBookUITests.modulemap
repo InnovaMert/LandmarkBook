@@ -1,0 +1,6 @@
+framework module Pods_LandmarkBook_LandmarkBookUITests {
+  umbrella header "Pods-LandmarkBook-LandmarkBookUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
